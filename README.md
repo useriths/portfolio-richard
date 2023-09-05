@@ -4,4 +4,4 @@ This is my portfolio.
 i like programming.
 
 ## Programming Languages
-I like to program in python.
+I like to program in python and C#
